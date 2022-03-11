@@ -1,0 +1,6 @@
+x = input(" enter the city name ")
+y = input(" enter the city name ")
+z = input(" enter the city name ")
+print(" enter the city name :1:" , x)
+print(" enter the city name :2:" , y)
+print(" enter the city name :3:" , z)

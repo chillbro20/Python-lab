@@ -1,0 +1,7 @@
+print("enter your personel details")
+name = input(" enter the name " )
+add =  input( " enter the address ")
+no = int(input(" enter the moblie number "))
+print( "the name is :" , name )
+print(" the address is :", add)
+print(" the number is :", no)
